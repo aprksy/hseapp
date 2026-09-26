@@ -1,0 +1,59 @@
+{
+  "@@locale": "en_ID",
+  "appName": "HSE App",
+  "@appName": {
+    "description": "Application name"
+  },
+  "welcome": "Welcome",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  
+  "dashboard": "Dashboard",
+  "compliance": "Compliance",
+  "incidents": "Incidents",
+  "planning": "Planning",
+  "monitoring": "Monitoring",
+  "evaluation": "Evaluation",
+  "reports": "Reports",
+  "projects": "Projects",
+  "settings": "Settings",
+  "help": "Help",
+  
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "toggleTheme": "Toggle Theme",
+  
+  "switchLanguage": "Switch Language",
+  "languageIndonesian": "Bahasa Indonesia",
+  "languageEnglish": "English",
+  
+  "profile": "Profile",
+  "logout": "Logout",
+  "notifications": "Notifications",
+  "preferences": "Preferences",
+  
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "view": "View",
+  "search": "Search",
+  "filter": "Filter",
+  "export": "Export",
+  "import": "Import",
+  "close": "Close",
+  "back": "Back",
+  "next": "Next",
+  "previous": "Previous",
+  
+  "errorNotFound": "Page not found",
+  "errorUnauthorized": "Access denied",
+  "errorServer": "Server error",
+  "errorNetwork": "Network error",
+  "tryAgain": "Try again",
+  
+  "copyright": "© 2026 HSE App. All rights reserved.",
+  "compliance": "Compliant with Kemenaker & KLHK standards",
+  "version": "Version"
+}

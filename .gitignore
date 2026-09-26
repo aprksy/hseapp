@@ -1,0 +1,31 @@
+```
+# Dependencies
+web/node_modules/
+
+# Vite build artifacts
+web/node_modules/
+
+# SvelteKit generated files
+web/.svelte-kit/
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+```
+web/node_modules/.package-lock.json

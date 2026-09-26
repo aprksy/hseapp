@@ -1,0 +1,59 @@
+{
+  "@@locale": "id_ID",
+  "appName": "Aplikasi K3",
+  "@appName": {
+    "description": "Application name"
+  },
+  "welcome": "Selamat Datang",
+  "loading": "Memuat...",
+  "error": "Terjadi kesalahan",
+  
+  "dashboard": "Dasbor",
+  "compliance": "Kepatuhan",
+  "incidents": "Insiden",
+  "planning": "Perencanaan",
+  "monitoring": "Pemantauan",
+  "evaluation": "Evaluasi",
+  "reports": "Laporan",
+  "projects": "Proyek",
+  "settings": "Pengaturan",
+  "help": "Bantuan",
+  
+  "themeLight": "Terang",
+  "themeDark": "Gelap",
+  "themeSystem": "Sistem",
+  "toggleTheme": "Ganti Tema",
+  
+  "switchLanguage": "Ganti Bahasa",
+  "languageIndonesian": "Bahasa Indonesia",
+  "languageEnglish": "English",
+  
+  "profile": "Profil",
+  "logout": "Keluar",
+  "notifications": "Notifikasi",
+  "preferences": "Preferensi",
+  
+  "save": "Simpan",
+  "cancel": "Batal",
+  "delete": "Hapus",
+  "edit": "Ubah",
+  "view": "Lihat",
+  "search": "Cari",
+  "filter": "Filter",
+  "export": "Ekspor",
+  "import": "Impor",
+  "close": "Tutup",
+  "back": "Kembali",
+  "next": "Lanjut",
+  "previous": "Sebelumnya",
+  
+  "errorNotFound": "Halaman tidak ditemukan",
+  "errorUnauthorized": "Tidak memiliki akses",
+  "errorServer": "Kesalahan server",
+  "errorNetwork": "Masalah jaringan",
+  "tryAgain": "Coba lagi",
+  
+  "copyright": "© 2026 HSE App. Hak cipta dilindungi.",
+  "compliance": "Memenuhi standar Kemenaker & KLHK",
+  "version": "Versi"
+}
